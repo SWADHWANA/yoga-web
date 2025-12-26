@@ -1,0 +1,112 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+#discovermain{
+    margin-top: 5%;
+    margin-left: 38%;
+    background-color: bisque ;
+    height: 80%;
+    width: 25%;
+   
+}
+#headerimg{
+    margin-top: 10%;
+    height: 360px;
+    width: 270px;
+    margin-left: 20%;
+}
+#headertxt{
+    
+    text-align: center;
+    color: blue ;
+}
+.specification{
+    margin: 40px;
+    display: flex;
+    background-color: beige;
+}
+.container{
+    padding: 10px;
+    margin: 20px;
+
+    height: 10%;
+    width: 100%;
+    margin: 20px;
+}
+.yogaimg{
+    margin-top: 20px;
+    margin-left: 25px;
+    padding: 5X;
+    height: 80px;
+    width: 70px;
+}
+.text{
+     color: blue ;
+}
+.yogaheader{
+    padding-bottom: 20px;
+}
+#button{
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px;
+    background-color: blue;
+}
+
+
+/* homepage */
+#mainbg{
+    position: relative;
+    margin-left: 35%;
+    padding: 20px;
+    height: 80%;
+    width: 30%;
+
+}
+.img1{
+    margin-top: 5%;
+    margin-left: 38%;
+    background-color: bisque ;
+    height: 80%;
+    width: 25%;
+    position: absolute;
+    
+
+}
+.img2{
+    margin-top: 19%;
+    margin-left: 43%;
+    position: absolute;
+    height: 30%;
+    width: 15%;
+    
+
+}
+.title{
+    position:absolute;
+    top:150px;
+    width:100%;
+    text-align:center;
+    padding:20px;
+}
+.title2{
+    position:absolute;
+    margin-top:850px;
+    width:100%;
+    text-align:center;
+    padding:0 20px;
+}
+.btn{
+    width: 5%;
+    margin-top: 46%;
+    margin-left: 48%;
+    background-color: darkblue;
+    position: absolute;
+    text-align: center;
+    position:absolute;
+    
+
+};
